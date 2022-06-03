@@ -1,0 +1,23 @@
+.posts-container {
+  width: 500px;
+}
+
+.post-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-title {
+  font-size: 14px;
+  font-weight: 900;
+  text-align: left;
+}
+
+.post-body {
+  display: flex;
+  align-items: center;
+}
+
+textarea {
+  width: 100%;
+}
